@@ -1,0 +1,16 @@
+#define FramesText	110
+#define KeySelectedText	107
+#define SelectButton	106
+#define KeyProgrammer	2
+#define InstructionList	101
+#define PressRadio	102
+#define ReleaseRadio	103
+#define WaitRadio	104
+#define ReleaseDropDown	108
+#define WaitFrames	109
+#define AddButton	111
+#define ModifyButton	112
+#define DeleteButton	113
+#define RepeatCheckbox	105
+#define Keyboard	100
+#define KeyboardText	300

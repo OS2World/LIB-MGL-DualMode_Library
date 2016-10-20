@@ -1,0 +1,33 @@
+LIBRARY DUALMODE initinstance terminstance
+DATA MULTIPLE NONSHARED
+EXPORTS
+  MGLSC_init
+  MGLSC_clientState
+  MGLSC_flushUserInput
+  MGLSC_getKeyName
+  MGLSC_MGLkeyToPMKeycode
+  MGLSC_PMkeyToMGLKeycode
+  MGLSC_reinit
+  MGLSC_mouseGrab
+  MGLSC_setMouseModeRelative
+  MGLSC_isJoystickPresent
+  MGLSC_getNumJoysticks
+  MGLSC_getNumJoyButtons
+  MGLSC_setViewPort
+  MGLSC_setMousePosition
+  MGLSC_setColor
+  MGLSC_getColor
+  MGLSC_setFrameRate
+  MGLSC_setMaxFrameSkip
+  MGLSC_blockUntilFrameReady
+  MGLSC_shouldSkipFrame
+  MGLSC_advanceFrame
+  MGLSC_setTimingMode
+  MGLSC_resetSkipParams
+  MGLSC_shutdown
+  MGLSC_waitForShutdown
+  MGLSC_customizeKeyboard
+  MGLSC_loadCustomKeyboard
+  MGLSC_saveCustomKeyboard
+
+
